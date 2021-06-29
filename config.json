@@ -1,7 +1,0 @@
-{
-  "is_delete_app": false,
-  "wait_time": 10,
-  "selenoid_hub": "http://localhost:4723/wd/hub",
-  "package_name": "com.google.android.calculator",
-  "start_activity": "com.google.android.calculator.ui.activities.start.StartAppActivity"
-}
